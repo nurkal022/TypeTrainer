@@ -76,6 +76,6 @@ Luxury Typing Trainer - это современное приложение дл�
 
 ## 📞 Контакты
 
-Ваше Имя - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Kalzhanov Nurlykhan - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
 
 Ссылка на проект: [https://github.com/your-username/luxury-typing-trainer](https://github.com/your-username/luxury-typing-trainer)
