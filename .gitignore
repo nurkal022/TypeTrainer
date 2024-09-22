@@ -1,0 +1,7 @@
+/.venv
+/build
+/dist
+/song
+/songs_data.json
+/TypingTrainer.spec
+/__pycache__
